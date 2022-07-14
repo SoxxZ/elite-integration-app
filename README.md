@@ -1,1 +1,1 @@
-# elite-integration-app
+# Elite-App
